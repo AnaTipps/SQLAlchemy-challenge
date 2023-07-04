@@ -20,8 +20,11 @@ Welcome,  homepage.
 All the available routes were listed.
 
   /api/v1.0/precipitation
+  
   /api/v1.0/stations
+  
   /api/v1.0/tobs
+  
   /api/v1.0/<start> and /api/v1.0/<start>/<end>
 
 JASON lists and dictionaries were created. 

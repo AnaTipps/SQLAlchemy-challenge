@@ -25,9 +25,9 @@ All the available routes were listed.
   
   /api/v1.0/tobs
   
-  /api/v1.0/<start> 
+  /api/v1.0/"<start>" 
   
-  /api/v1.0/<start>/<end>
+  /api/v1.0/"<start>/<end>"
 
 JASON lists and dictionaries were created. 
 #### Code can be found on the app.py file
